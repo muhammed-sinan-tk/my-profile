@@ -157,13 +157,18 @@ body {
     font-size: 12px;
 }
 
-.Download-btn {
+.cv {
     background-color: #e21b5a;
-    color: #fff;
+   
     padding: 1rem 3rem;
     border-radius: 30px;
     margin-top: 1.5rem;
     border: none;
+}
+
+.cv a{
+    text-decoration: none;
+    color: #fff;
 }
 
 /* about */
